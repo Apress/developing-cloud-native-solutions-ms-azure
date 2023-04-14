@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ecea3c5-1af0-450c-928a-1528f1e29e50": {
+      "ProjectGuid": "9ecea3c5-1af0-450c-928a-1528f1e29e50",
+      "DisplayName": "MathAPI",
+      "ColorIndex": 0
+    },
+    "c1ec0c4c-6147-41cd-9979-184f7748c732": {
+      "ProjectGuid": "c1ec0c4c-6147-41cd-9979-184f7748c732",
+      "DisplayName": "AddAPI",
+      "ColorIndex": 1
+    },
+    "7f905f74-bc5d-4fbc-a39d-bee86afc38b0": {
+      "ProjectGuid": "7f905f74-bc5d-4fbc-a39d-bee86afc38b0",
+      "DisplayName": "SubtractAPI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: add
+ labels:
+   app: add
+spec:
+ selector:
+   matchLabels:
+     app: add
+ replicas: 1
+ template:
+   metadata:
+     labels:
+       app: add
+   spec:
+     containers:
+     - name: add
+       image: acr01mcrsvc.azurecr.io/add:ver01
+       resources:
+         requests:
+           cpu: 100m
+           memory: 100Mi
+         limits:
+           cpu: 200m
+           memory: 200Mi
+       ports:
+       - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+ name: add
+spec:
+ ports:
+ - port: 80
+ selector:
+   app: add
+---

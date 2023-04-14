@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2koqTGqBmkYG43K6AaTEDs4TmdMr2JS/6zrZJQD1Wlxi7LcSxL2i/3kGvV2STprIHrYtAQ/Am3ddnRO6i1Y+g==",
+  "success": true,
+  "projectFilePath": "C:\\Abhishek\\.NET\\Speech2Text\\Speech2Text\\Speech2Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhishek Mishra\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.23.0\\microsoft.cognitiveservices.speech.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

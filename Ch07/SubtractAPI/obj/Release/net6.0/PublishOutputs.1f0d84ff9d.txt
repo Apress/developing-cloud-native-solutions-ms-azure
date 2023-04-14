@@ -1,0 +1,11 @@
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\SubtractAPI.exe
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\appsettings.Development.json
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\appsettings.json
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\SubtractAPI.dll
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\SubtractAPI.deps.json
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\SubtractAPI.runtimeconfig.json
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\SubtractAPI.pdb
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Abhishek\.NET\MathAPI\SubtractAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

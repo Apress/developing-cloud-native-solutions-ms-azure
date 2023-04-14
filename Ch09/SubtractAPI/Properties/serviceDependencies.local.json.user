@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-08-27T19:16:25.6910975Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2022-08-27T19:16:27.2989106Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rg-microservices-demo"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "799ec32a-c26e-4467-ab01-ab7275066359"
+    }
+  }
+}

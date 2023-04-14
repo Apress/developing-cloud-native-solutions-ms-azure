@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8311aad8-ac64-42e3-8ac2-f1addf9ac35c": {
+      "ProjectGuid": "8311aad8-ac64-42e3-8ac2-f1addf9ac35c",
+      "DisplayName": "Speech2Text",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

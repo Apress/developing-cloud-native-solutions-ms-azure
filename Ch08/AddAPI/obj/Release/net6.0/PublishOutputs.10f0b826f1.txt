@@ -1,0 +1,11 @@
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\AddAPI.exe
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\appsettings.Development.json
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\appsettings.json
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\AddAPI.dll
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\AddAPI.deps.json
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\AddAPI.runtimeconfig.json
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\AddAPI.pdb
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Abhishek\.NET\MathAPI\AddAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
